@@ -45,7 +45,7 @@ const Index = () => {
           O pagamento não foi aprovado. Para liberar o acesso ao conteúdo, realize novamente o pagamento no valor de <strong style={{ color: '#333' }}>R$ 14,90</strong>.
         </p>
         <a
-          href="https://seguropagamentos.com.br/of4"
+          href="https://seguropagamentos.com.br/ofs4"
           style={{
             display: 'inline-block',
             backgroundColor: '#d32f2f',
